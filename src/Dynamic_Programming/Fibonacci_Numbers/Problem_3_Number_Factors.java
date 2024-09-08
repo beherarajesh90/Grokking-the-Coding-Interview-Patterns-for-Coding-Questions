@@ -3,6 +3,17 @@ package Dynamic_Programming.Fibonacci_Numbers;
 // Problem Statement: Number factors
 // LeetCode Question:
 
+// Statement
+//     count all possible ways in which n can be expressed as the sum of the given numbers. If there is no possible way return 0.
+//     [1,3,4] n=4
+//     1+1+1+1=4
+//     1+3=4
+//     3+1=4
+//     4=4
+
+//     4 ways
+    
+
 public class Problem_3_Number_Factors {
 
     // Brute Force Approach
